@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Calculadora (Plugins)", "Calculadora (Plugins)\Calculadora (Plugins).vbproj", "{35AF3AA6-123A-4524-8F93-379172FF0212}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Suma", "Suma\Suma.vbproj", "{60D0BC73-5B05-4798-B538-1F6AF54C47D1}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Resta", "Resta\Resta.vbproj", "{3EC1916C-17CC-4337-A810-FC34FEF7298F}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Multiplicar", "Multiplicar\Multiplicar.vbproj", "{1C0C65B1-BD03-4D37-90A1-C20B5B2B2C76}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Dividir", "Dividir\Dividir.vbproj", "{55B187AE-A168-4426-B030-A2DC72AC2DDE}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Raiz Cuadrada", "Raiz Cuadrada\Raiz Cuadrada.vbproj", "{F988B4F7-010E-4D04-A44C-788FDD1D2991}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35AF3AA6-123A-4524-8F93-379172FF0212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35AF3AA6-123A-4524-8F93-379172FF0212}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35AF3AA6-123A-4524-8F93-379172FF0212}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35AF3AA6-123A-4524-8F93-379172FF0212}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60D0BC73-5B05-4798-B538-1F6AF54C47D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D0BC73-5B05-4798-B538-1F6AF54C47D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D0BC73-5B05-4798-B538-1F6AF54C47D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D0BC73-5B05-4798-B538-1F6AF54C47D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EC1916C-17CC-4337-A810-FC34FEF7298F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EC1916C-17CC-4337-A810-FC34FEF7298F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EC1916C-17CC-4337-A810-FC34FEF7298F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EC1916C-17CC-4337-A810-FC34FEF7298F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C0C65B1-BD03-4D37-90A1-C20B5B2B2C76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C0C65B1-BD03-4D37-90A1-C20B5B2B2C76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C0C65B1-BD03-4D37-90A1-C20B5B2B2C76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C0C65B1-BD03-4D37-90A1-C20B5B2B2C76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55B187AE-A168-4426-B030-A2DC72AC2DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55B187AE-A168-4426-B030-A2DC72AC2DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55B187AE-A168-4426-B030-A2DC72AC2DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55B187AE-A168-4426-B030-A2DC72AC2DDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F988B4F7-010E-4D04-A44C-788FDD1D2991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F988B4F7-010E-4D04-A44C-788FDD1D2991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F988B4F7-010E-4D04-A44C-788FDD1D2991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F988B4F7-010E-4D04-A44C-788FDD1D2991}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13B4321F-BA5D-41BE-88D1-2A7B82AFD6E9}
+	EndGlobalSection
+EndGlobal
