@@ -11,4 +11,4 @@ Es de codigo abierto, y cualquiera puede hacer lo que quiera con el
 > Se trata de un ejercicio donde, convierto String.Split(), en un treeview, Tambien funciona con archivos txt, que comtienen directorios ```CMD --> dir /S /B > Test.txt```
 
 ## Library Exampler               29/6/2019
-> Se trata de un pequeña aplicación, donde puedes exponer Ejemplos/Ejercicios a los alumnos. Los ejemplos son expotados a dll
+> Se trata de un pequeña aplicación, donde puedes exponer Ejemplos/Ejercicios a los alumnos. Los ejemplos son exportados a dll
