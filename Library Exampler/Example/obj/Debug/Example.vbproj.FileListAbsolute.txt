@@ -1,0 +1,11 @@
+C:\Users\RubenPX\source\repos\TestComponents\LibraryExampler\bin\Debug\Plugins\Example.dll
+C:\Users\RubenPX\source\repos\TestComponents\LibraryExampler\bin\Debug\Plugins\Example.pdb
+C:\Users\RubenPX\source\repos\TestComponents\LibraryExampler\bin\Debug\Plugins\Example.xml
+C:\Users\RubenPX\source\repos\TestComponents\Example\obj\Debug\Example.vbprojAssemblyReference.cache
+C:\Users\RubenPX\source\repos\TestComponents\Example\obj\Debug\Example.SumaForm.resources
+C:\Users\RubenPX\source\repos\TestComponents\Example\obj\Debug\Example.Resources.resources
+C:\Users\RubenPX\source\repos\TestComponents\Example\obj\Debug\Example.vbproj.GenerateResource.cache
+C:\Users\RubenPX\source\repos\TestComponents\Example\obj\Debug\Example.vbproj.CoreCompileInputs.cache
+C:\Users\RubenPX\source\repos\TestComponents\Example\obj\Debug\Example.dll
+C:\Users\RubenPX\source\repos\TestComponents\Example\obj\Debug\Example.xml
+C:\Users\RubenPX\source\repos\TestComponents\Example\obj\Debug\Example.pdb
