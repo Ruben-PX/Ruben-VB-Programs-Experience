@@ -1,0 +1,29 @@
+C:\Users\Krypto\source\repos\CSharp Programs Experience\Split to TreeView\bin
+C:\Users\Krypto\source\repos\CSharp Programs Experience\Split to TreeView\Form1.cs
+C:\Users\Krypto\source\repos\CSharp Programs Experience\Split to TreeView\Form1.Designer.cs
+C:\Users\Krypto\source\repos\CSharp Programs Experience\Split to TreeView\Form1.resx
+C:\Users\Krypto\source\repos\CSharp Programs Experience\Split to TreeView\obj
+C:\Users\Krypto\source\repos\CSharp Programs Experience\Split to TreeView\Program.cs
+C:\Users\Krypto\source\repos\CSharp Programs Experience\Split to TreeView\Split to TreeView.csproj
+C:\Users\Krypto\source\repos\CSharp Programs Experience\Split to TreeView\Split to TreeView.csproj.user
+C:\Users\Krypto\source\repos\CSharp Programs Experience\Split to TreeView\text.txt
+C:\Users\Krypto\source\repos\CSharp Programs Experience\Split to TreeView\bin\Debug
+C:\Users\Krypto\source\repos\CSharp Programs Experience\Split to TreeView\bin\Debug\net6.0-windows
+C:\Users\Krypto\source\repos\CSharp Programs Experience\Split to TreeView\obj\Debug
+C:\Users\Krypto\source\repos\CSharp Programs Experience\Split to TreeView\obj\project.assets.json
+C:\Users\Krypto\source\repos\CSharp Programs Experience\Split to TreeView\obj\project.nuget.cache
+C:\Users\Krypto\source\repos\CSharp Programs Experience\Split to TreeView\obj\Split to TreeView.csproj.nuget.dgspec.json
+C:\Users\Krypto\source\repos\CSharp Programs Experience\Split to TreeView\obj\Split to TreeView.csproj.nuget.g.props
+C:\Users\Krypto\source\repos\CSharp Programs Experience\Split to TreeView\obj\Split to TreeView.csproj.nuget.g.targets
+C:\Users\Krypto\source\repos\CSharp Programs Experience\Split to TreeView\obj\Debug\net6.0-windows
+C:\Users\Krypto\source\repos\CSharp Programs Experience\Split to TreeView\obj\Debug\net6.0-windows\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+C:\Users\Krypto\source\repos\CSharp Programs Experience\Split to TreeView\obj\Debug\net6.0-windows\ref
+C:\Users\Krypto\source\repos\CSharp Programs Experience\Split to TreeView\obj\Debug\net6.0-windows\refint
+C:\Users\Krypto\source\repos\CSharp Programs Experience\Split to TreeView\obj\Debug\net6.0-windows\Split to TreeView.AssemblyInfo.cs
+C:\Users\Krypto\source\repos\CSharp Programs Experience\Split to TreeView\obj\Debug\net6.0-windows\Split to TreeView.AssemblyInfoInputs.cache
+C:\Users\Krypto\source\repos\CSharp Programs Experience\Split to TreeView\obj\Debug\net6.0-windows\Split to TreeView.assets.cache
+C:\Users\Krypto\source\repos\CSharp Programs Experience\Split to TreeView\obj\Debug\net6.0-windows\Split to TreeView.csproj.AssemblyReference.cache
+C:\Users\Krypto\source\repos\CSharp Programs Experience\Split to TreeView\obj\Debug\net6.0-windows\Split to TreeView.designer.deps.json
+C:\Users\Krypto\source\repos\CSharp Programs Experience\Split to TreeView\obj\Debug\net6.0-windows\Split to TreeView.designer.runtimeconfig.json
+C:\Users\Krypto\source\repos\CSharp Programs Experience\Split to TreeView\obj\Debug\net6.0-windows\Split to TreeView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krypto\source\repos\CSharp Programs Experience\Split to TreeView\obj\Debug\net6.0-windows\Split to TreeView.GlobalUsings.g.cs
